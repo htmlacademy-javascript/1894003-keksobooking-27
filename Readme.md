@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
-* Студент: [Полина Любарова](https://htmlacademy.ru/profile/id1894003).
-* Наставник: `Александр Бабченко`.
+* Студент: [Полина Любарова](https://up.htmlacademy.ru/javascript/27/user/1894003).
+* Наставник: `Александр Бабченко`.(https://htmlacademy.ru/profile/babtshe)
 
 ---
 
